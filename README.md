@@ -9,3 +9,8 @@ This project will enhance to visualize and indentify the progress made on variou
 ![BI 3](https://github.com/user-attachments/assets/e76440b3-18ca-41c1-9b2c-c9ae619ee43c)
 ![BI 4](https://github.com/user-attachments/assets/e43fdbbe-0fd0-49b7-918c-90b89d731f72)
 ![BI 5](https://github.com/user-attachments/assets/0d36a6b0-dc1e-4b42-ac22-b9ce84702944)
+![BI 6](https://github.com/user-attachments/assets/05407140-c8e4-4bfc-841d-6fe7f9d3cce7)
+![BI 7](https://github.com/user-attachments/assets/d36f6353-7a66-4e64-bba3-270684aadb51)
+![BI 8](https://github.com/user-attachments/assets/101cf5e2-d215-4c93-9c1e-db8fe45f91f2)
+![BI 9](https://github.com/user-attachments/assets/18151657-a725-468f-aa0e-3a0e107c067c)
+![BI 1](https://github.com/user-attachments/assets/62dc3d0c-8969-4162-83b8-91f93fbe69b6)
