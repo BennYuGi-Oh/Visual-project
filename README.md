@@ -1,8 +1,9 @@
 # Visual-project
 This is the place where I upload my visuals
  ### Overview 
+This project will enhance to visualize and identify the progress made on various regions.These regions - North Central, North East,North West,South East,South South, and South West worked tiredlessly to achieve a great sales. Each of the region made a reasonable amounts on their sales within a specific peroid. These sales were realised within the period of the 2014, 2015, and 2016. In the year 2015,these regions were able to generate 53bn in their sales.
 
-This project will enhance to visualize and indentify the progress made on various regions.
+###  
 ![BI 0](https://github.com/user-attachments/assets/3c8587dd-a9b2-4747-a807-227c40bc7a8a)
 ![BI 00](https://github.com/user-attachments/assets/64eaa2dc-4e77-4263-a4c2-98267f2e011a)
 ![BI 2](https://github.com/user-attachments/assets/de72984e-fe62-4ad8-b9a8-aaf3289e595a)
